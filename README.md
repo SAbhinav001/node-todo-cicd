@@ -1,4 +1,4 @@
-# node-todo-cicd pipeline
+# node-todo-cicd pipelines
 
 Run these commands:
 
